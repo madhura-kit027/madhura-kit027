@@ -40,30 +40,35 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
+
 ## 🏆 Competitive Programming  
 
-<p align="left">
-<a href="https://leetcode.com/madhura_03" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
+<p align="center">
+
+<a href="https://leetcode.com/madhura_03" target="_blank" style="margin-right:30px; text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="60"/>
+<br><b>LeetCode</b>
 </a>
 
-<a href="https://www.codechef.com/users/madhura03" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/madhura03" target="_blank" style="margin-right:30px; text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="60"/>
+<br><b>CodeChef</b>
 </a>
 
-<a href="https://codeforces.com/profile/madhura_27" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/madhura_27" target="_blank" style="margin-right:30px; text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="60"/>
+<br><b>Codeforces</b>
 </a>
 
-<a href="https://codolio.com/profile/kit27.cse27" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codio.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://codolio.com/profile/kit27.cse27" target="_blank" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codio.svg" width="60"/>
+<br><b>Codolio</b>
 </a>
+
 </p>
-
-
-## 🏆 Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pavi1309/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pavithra1320)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Pavithra1320)
-[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Pavi1309)
