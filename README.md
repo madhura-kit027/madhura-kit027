@@ -5,9 +5,11 @@
 📞 7845320659
 </p>
 
+
  ##  About Me
 
 I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karunanidhi Institute of Technology, Coimbatore, driven by a passion for emerging technologies, problem-solving, and building meaningful software solutions while continuously expanding my technical knowledge.
+
 ## 🎓 Education
 
 **B.E. Computer Science and Engineering**  
@@ -23,6 +25,8 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40)](https://codeforces.com/profile/madhura_27)
 [![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&logoWidth=45)](https://codolio.com/profile/kit27.cse27)
 
+
+
 ## 🏅 Achievements
 
 🏆 Earned the Gold Badge (Contest Contender) on CodeChef for consistent performance in competitive programming contests.  
@@ -30,6 +34,7 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 🥉 Received the Bronze Badge (Daily Streak) on CodeChef for maintaining regular coding practice.  
 💻 Successfully solved **500+ coding problems** and actively participated in **70+ competitive contests**.  
 ☁️ Recognized as a Salesforce **Agentblazer Champion** for demonstrating excellence in Salesforce learning and innovation.  
+
 
 
 ## 🛠️ Technical Skills  
@@ -62,6 +67,8 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhura-a-8096352a5)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.cse27@gmail.com)
