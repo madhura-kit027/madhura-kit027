@@ -34,8 +34,10 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 🥉 Received the Bronze Badge (Daily Streak) on CodeChef for maintaining regular coding practice.  
 💻 Successfully solved **500+ coding problems** and actively participated in **70+ competitive contests**.  
 ☁️ Recognized as a Salesforce **Agentblazer Champion** for demonstrating excellence in Salesforce learning and innovation.  
-
-
+🎓 Successfully completed the **Web Development** certification from **IBM**
+🎓 Earned the **Python Foundation** certification from **Infosys Springboard**
+🎓 Completed the **Java Foundation** certification from **Infosys Springboard**
+🎓 Achieved certification in **Database Management System (DBMS)** from **Infosys Springboard**
 ## 🛠️ Technical Skills  
 
 ### 👨‍💻 Programming Languages  
