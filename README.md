@@ -17,41 +17,6 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 📅 2023 – 2027  
 📊 **CGPA:** 7.5 / 10  
 
-## 💼 Internship Experience  
-
-Front-End Development Intern  
-
-🔷 Developed strong foundational knowledge in Python programming and core concepts.  
-🌐 Built structured and semantic web pages using HTML during internship training.  
-🎨 Designed responsive and visually appealing user interfaces using modern CSS.  
-⚡ Created dynamic and interactive web applications using JavaScript fundamentals.
-
-
-## 🏆 Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40)](https://leetcode.com/madhura_03)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40)](https://www.codechef.com/users/madhura03)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40)](https://codeforces.com/profile/madhura_27)
-[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&logoWidth=45)](https://codolio.com/profile/kit27.cse27)
-
-
-
-## 🏅 Achievements
-
-🏆 Earned the Gold Badge (Contest Contender) on CodeChef for consistent performance in competitive programming contests.  
-🥈 Awarded the Silver Badge (Problem Solver) on CodeChef for solving a large number of coding challenges.  
-🥉 Received the Bronze Badge (Daily Streak) on CodeChef for maintaining regular coding practice.  
-💻 Successfully solved **500+ coding problems** and actively participated in **70+ competitive contests**.  
-☁️ Recognized as a Salesforce **Agentblazer Champion** for demonstrating excellence in Salesforce learning and innovation.  
-
-
-
-## 📜 Certifications
-
-🎓 Successfully completed the **Web Development** certification from **IBM**
-🎓 Earned the **Python Foundation** certification from **Infosys Springboard**
-🎓 Completed the **Java Foundation** certification from **Infosys Springboard**
-🎓 Achieved certification in **Database Management System (DBMS)** from **Infosys Springboard**
 
 ## 🛠️ Technical Skills  
 
@@ -86,6 +51,39 @@ Front-End Development Intern
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
+
+## 💼 Internship Experience  
+
+Front-End Development Intern  
+
+🔷 Developed strong foundational knowledge in Python programming and core concepts.  
+🌐 Built structured and semantic web pages using HTML during internship training.  
+🎨 Designed responsive and visually appealing user interfaces using modern CSS.  
+⚡ Created dynamic and interactive web applications using JavaScript fundamentals.
+
+
+## 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40)](https://leetcode.com/madhura_03)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40)](https://www.codechef.com/users/madhura03)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40)](https://codeforces.com/profile/madhura_27)
+[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&logoWidth=45)](https://codolio.com/profile/kit27.cse27)
+
+## 🏅 Achievements
+
+🏆 Earned the Gold Badge (Contest Contender) on CodeChef for consistent performance in competitive programming contests.  
+🥈 Awarded the Silver Badge (Problem Solver) on CodeChef for solving a large number of coding challenges.  
+🥉 Received the Bronze Badge (Daily Streak) on CodeChef for maintaining regular coding practice.  
+💻 Successfully solved **500+ coding problems** and actively participated in **70+ competitive contests**.  
+☁️ Recognized as a Salesforce **Agentblazer Champion** for demonstrating excellence in Salesforce learning and innovation.  
+
+## 📜 Certifications
+
+🎓 Successfully completed the **Web Development** certification from **IBM**.  
+🎓 Earned the **Python Foundation** certification from **Infosys Springboard**.  
+🎓 Completed the **Java Foundation** certification from **Infosys Springboard**.  
+🎓 Achieved certification in **Database Management System (DBMS)** from **Infosys Springboard**.
+
 
 ## 🌟 Let's Connect
 
