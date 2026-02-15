@@ -55,11 +55,14 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 💼 Professional Skills
 
 🧠 Logical Thinking – Ability to think clearly and solve problems in a structured and systematic way.
-📊 Analytical Ability – Skilled in analyzing information and making informed decisions.
-⏳ Time Management – Efficient in organizing tasks and completing work within deadlines.
-🤝 Teamwork – Works effectively with others to achieve common goals.
-🔄 Adaptability & Responsiveness – Quickly adjusts to new situations and responds effectively to challenges.
 
+📊 Analytical Ability – Skilled in analyzing information and making informed decisions.
+
+⏳ Time Management – Efficient in organizing tasks and completing work within deadlines.
+
+🤝 Teamwork – Works effectively with others to achieve common goals.
+
+🔄 Adaptability & Responsiveness – Quickly adjusts to new situations and
 ## 💼 Internship Experience  
 
 Front-End Development Intern  from live Stream Technology
