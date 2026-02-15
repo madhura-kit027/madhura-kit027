@@ -55,7 +55,6 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 
 ## 🌐 Let's Connect:
-[![LinkedIn](https://www.linkedin.com/in/madhura-a-8096352a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhura7826@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhura-Kit027)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhura-a-8096352a5)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.cse27@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/madhura-Kit027)
