@@ -40,11 +40,7 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
-### 🧠 Core Concepts  
-<p>
-<img src="https://img.shields.io/badge/OOPS-007ACC?style=flat&logo=java&logoColor=white&labelColor=007ACC" style="border-radius:20px;"/>
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat&logo=code&logoColor=white&labelColor=FF6F00" style="border-radius:20px;"/>
-</p>
+<p> <img src="https://img.shields.io/badge/OOPS-007ACC?style=flat&logo=java&logoColor=white&labelColor=007ACC" style="border-radius:20px;"/> <img src="https://img.shields.io/badge/DSA-FF6F00?style=flat&logo=code&logoColor=white&labelColor=FF6F00" style="border-radius:20px;"/> <img src="https://img.shields.io/badge/Operating%20System-008080?style=flat&logo=windows&logoColor=white&labelColor=008080" style="border-radius:20px;"/> <img src="https://img.shields.io/badge/Computer%20Networks-800080?style=flat&logo=networking&logoColor=white&labelColor=800080" style="border-radius:20px;"/> <img src="https://img.shields.io/badge/DBMS-FF4500?style=flat&logo=mysql&logoColor=white&labelColor=FF4500" style="border-radius:20px;"/> </p>
 
 ### ⚙️ Tools & Platforms  
 <p>
@@ -52,7 +48,7 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
-# # 💼 Professional Skills
+## 💼 Professional Skills
 
 🧠 Logical Thinking – Ability to think clearly and solve problems in a structured and systematic way.
 
@@ -62,7 +58,8 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 🤝 Teamwork – Works effectively with others to achieve common goals.
 
-🔄 Adaptability & Responsiveness – Quickly adjusts to new situations and
+🔄 Adaptability & Responsiveness – Quickly adjusts to new situations and responds effectively to challenges.
+
 ## 💼 Internship Experience  
 
 Front-End Development Intern  from live Stream Technology
