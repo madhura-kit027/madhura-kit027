@@ -6,34 +6,40 @@
 I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karunanidhi Institute of Technology, Coimbatore, driven by a passion for emerging technologies, problem-solving, and building meaningful software solutions while continuously expanding my technical knowledge.
 ## 🚀 Technical Skills  
 
-## 🚀 Technical Skills  
+## 🛠️ Technical Skills  
 
-### 👩‍💻 Programming Languages  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=light" />
+### 👨‍💻 Programming Languages  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
 
-### 🎨 Frontend Development  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+### 🌐 Frontend Development  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 </p>
 
 ### 🗄️ Database  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
 ### 🧠 Core Concepts  
-<p align="left">
-<img src="https://img.shields.io/badge/DSA-FF9800?style=for-the-badge&logo=code&logoColor=white&color=FF9800&labelColor=FF9800" style="border-radius:25px;"/>
-<img src="https://img.shields.io/badge/OOPS-2196F3?style=for-the-badge&logo=java&logoColor=white&color=2196F3&labelColor=2196F3" style="border-radius:25px;"/>
-<img src="https://img.shields.io/badge/SQL-4CAF50?style=for-the-badge&logo=mysql&logoColor=white&color=4CAF50&labelColor=4CAF50" style="border-radius:25px;"/>
+<p>
+<img src="https://img.shields.io/badge/OOPS-007ACC?style=flat&logo=java&logoColor=white&labelColor=007ACC" style="border-radius:20px;"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat&logo=code&logoColor=white&labelColor=FF6F00" style="border-radius:20px;"/>
 </p>
 
 ### ⚙️ Tools & Platforms  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
+
 
 ## 🏆 Competitive Programming
 
