@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm MADHURA </h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
+
+<p align="center">
+📍 Coimbatore, Tamil Nadu &nbsp; | &nbsp;
+📧 <a href="mailto:kit27.cse42@gmail.com">kit27.cse27@gmail.com</a> &nbsp; | &nbsp;
+📞 7845320659
+</p>
 
  ##  About Me
 
