@@ -47,6 +47,7 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40)](https://codeforces.com/profile/madhura_27)
 [![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&logoWidth=45)](https://codolio.com/profile/kit27.cse27)
 
+🌟 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhura-a-8096352a5)
 
