@@ -19,18 +19,11 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 ## 💼 Internship Experience  
 
-<img src="livestream-logo.png" alt="Live Stream Technologies Logo" width="120"/>
-
-### Live Stream Technologies  
-
 Front-End Development Intern  
 
 🔷 Developed strong foundational knowledge in Python programming and core concepts.  
-
 🌐 Built structured and semantic web pages using HTML during internship training.  
-
 🎨 Designed responsive and visually appealing user interfaces using modern CSS.  
-
 ⚡ Created dynamic and interactive web applications using JavaScript fundamentals.
 
 
