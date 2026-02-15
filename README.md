@@ -4,24 +4,34 @@
  ##  About Me
 
 I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karunanidhi Institute of Technology, Coimbatore, driven by a passion for emerging technologies, problem-solving, and building meaningful software solutions while continuously expanding my technical knowledge.
+## 🚀 Technical Skills  
 
- ## Language Tools
+### 👩‍💻 Programming Languages  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=light" />
+</p>
 
-### Programming
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+### 🎨 Frontend Development  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+</p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### 🗄️ Database  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+</p>
 
+### 🧠 Core Concepts  
+<p align="left">
+<img src="https://img.shields.io/badge/DSA-F9A825?style=for-the-badge&logoColor=white&color=F9A825&rounded=true"/>
+<img src="https://img.shields.io/badge/OOPS-1976D2?style=for-the-badge&logoColor=white&color=1976D2&rounded=true"/>
+<img src="https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logoColor=white&color=2E8B57&rounded=true"/>
+</p>
 
-### Databases
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+### ⚙️ Tools & Platforms  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+</p>
 
 ## 🏆 Competitive Programming
 
