@@ -17,6 +17,22 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 📅 2023 – 2027  
 📊 **CGPA:** 7.5 / 10  
 
+## 💼 Internship Experience  
+
+<img src="livestream-logo.png" alt="Live Stream Technologies Logo" width="120"/>
+
+### Live Stream Technologies  
+
+Front-End Development Intern  
+
+🔷 Developed strong foundational knowledge in Python programming and core concepts.  
+
+🌐 Built structured and semantic web pages using HTML during internship training.  
+
+🎨 Designed responsive and visually appealing user interfaces using modern CSS.  
+
+⚡ Created dynamic and interactive web applications using JavaScript fundamentals.
+
 
 ## 🏆 Competitive Programming
 
@@ -40,11 +56,8 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 ## 📜 Certifications
 
 🎓 Successfully completed the **Web Development** certification from **IBM**
-
 🎓 Earned the **Python Foundation** certification from **Infosys Springboard**
-
 🎓 Completed the **Java Foundation** certification from **Infosys Springboard**
-
 🎓 Achieved certification in **Database Management System (DBMS)** from **Infosys Springboard**
 
 ## 🛠️ Technical Skills  
