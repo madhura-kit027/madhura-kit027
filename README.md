@@ -40,12 +40,24 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
-## 🏆 Competitive Programming
+## 🏆 Competitive Programming  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/madhura_03)
+<p align="center">
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhura03)
+<a href="https://leetcode.com/madhura_03">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=35" />
+</a>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/madhura_27)
+<a href="https://www.codechef.com/users/madhura03">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=35" />
+</a>
 
-[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&labelColor=FF6F61&logoWidth=30)](https://codolio.com/profile/kit27.cse27)
+<a href="https://codeforces.com/profile/madhura_27">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=35" />
+</a>
+
+<a href="https://codolio.com/profile/kit27.cse27">
+<img src="https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&logoWidth=40" />
+</a>
+
+</p>
