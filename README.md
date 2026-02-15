@@ -18,39 +18,7 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 📊 **CGPA:** 7.5 / 10  
 
 
-## 🛠️ Technical Skills  
 
-### 👨‍💻 Programming Languages  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-</p>
-
-### 🌐 Web Development  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-</p>
-
-### 🗄️ Database  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-</p>
-
-### 🧠 Core Concepts  
-<p>
-<img src="https://img.shields.io/badge/OOPS-007ACC?style=flat&logo=java&logoColor=white&labelColor=007ACC" style="border-radius:20px;"/>
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat&logo=code&logoColor=white&labelColor=FF6F00" style="border-radius:20px;"/>
-</p>
-
-### ⚙️ Tools & Platforms  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-</p>
 
 ## 🏆 Competitive Programming
 
@@ -68,8 +36,36 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 ☁️ Recognized as a Salesforce **Agentblazer Champion** for demonstrating excellence in Salesforce learning and innovation.  
 
 
+## 🛠️ Technical Skills  
 
+### 👨‍💻 Programming Languages  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+</p>
 
+### 🌐 Web Development  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+</p>
+### 🗄️ Database  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+</p>
+### 🧠 Core Concepts  
+<p>
+<img src="https://img.shields.io/badge/OOPS-007ACC?style=flat&logo=java&logoColor=white&labelColor=007ACC" style="border-radius:20px;"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat&logo=code&logoColor=white&labelColor=FF6F00" style="border-radius:20px;"/>
+</p>
+### ⚙️ Tools & Platforms  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+</p>
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhura-a-8096352a5)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.cse27@gmail.com)
