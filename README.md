@@ -40,35 +40,12 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
+## 🏆 Competitive Programming
 
-## 🏆 Competitive Programming  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/madhura_03)
 
-<p align="center">
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhura03)
 
-<a href="https://leetcode.com/madhura_03" target="_blank" style="margin-right:30px; text-decoration:none;">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="60"/>
-<br><b>LeetCode</b>
-</a>
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/madhura_27)
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/madhura03" target="_blank" style="margin-right:30px; text-decoration:none;">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="60"/>
-<br><b>CodeChef</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/madhura_27" target="_blank" style="margin-right:30px; text-decoration:none;">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="60"/>
-<br><b>Codeforces</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://codolio.com/profile/kit27.cse27" target="_blank" style="text-decoration:none;">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codio.svg" width="60"/>
-<br><b>Codolio</b>
-</a>
-
-</p>
+[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&labelColor=FF6F61&logoWidth=30)](https://codolio.com/profile/kit27.cse27)
