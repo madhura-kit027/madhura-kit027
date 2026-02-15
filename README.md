@@ -36,7 +36,6 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 ☁️ Recognized as a Salesforce **Agentblazer Champion** for demonstrating excellence in Salesforce learning and innovation.  
 
 
-
 ## 🛠️ Technical Skills  
 
 ### 👨‍💻 Programming Languages  
@@ -47,21 +46,24 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
 
-### 🌐 Web Development  
+### 🌐 Frontend Development  
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 </p>
+
 ### 🗄️ Database  
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
+
 ### 🧠 Core Concepts  
 <p>
 <img src="https://img.shields.io/badge/OOPS-007ACC?style=flat&logo=java&logoColor=white&labelColor=007ACC" style="border-radius:20px;"/>
 <img src="https://img.shields.io/badge/DSA-FF6F00?style=flat&logo=code&logoColor=white&labelColor=FF6F00" style="border-radius:20px;"/>
 </p>
+
 ### ⚙️ Tools & Platforms  
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
