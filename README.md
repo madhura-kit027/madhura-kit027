@@ -4,7 +4,7 @@
  ##  About Me
 
 I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karunanidhi Institute of Technology, Coimbatore, driven by a passion for emerging technologies, problem-solving, and building meaningful software solutions while continuously expanding my technical knowledge.
-## 🚀 Technical Skills  
+
 
 ## 🛠️ Technical Skills  
 
