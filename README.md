@@ -6,6 +6,8 @@
 I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karunanidhi Institute of Technology, Coimbatore, driven by a passion for emerging technologies, problem-solving, and building meaningful software solutions while continuously expanding my technical knowledge.
 ## 🚀 Technical Skills  
 
+## 🚀 Technical Skills  
+
 ### 👩‍💻 Programming Languages  
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=light" />
@@ -23,9 +25,9 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 ### 🧠 Core Concepts  
 <p align="left">
-<img src="https://img.shields.io/badge/DSA-F9A825?style=for-the-badge&logoColor=white&color=F9A825&rounded=true"/>
-<img src="https://img.shields.io/badge/OOPS-1976D2?style=for-the-badge&logoColor=white&color=1976D2&rounded=true"/>
-<img src="https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logoColor=white&color=2E8B57&rounded=true"/>
+<img src="https://img.shields.io/badge/DSA-FF9800?style=for-the-badge&logo=code&logoColor=white&color=FF9800&labelColor=FF9800" style="border-radius:25px;"/>
+<img src="https://img.shields.io/badge/OOPS-2196F3?style=for-the-badge&logo=java&logoColor=white&color=2196F3&labelColor=2196F3" style="border-radius:25px;"/>
+<img src="https://img.shields.io/badge/SQL-4CAF50?style=for-the-badge&logo=mysql&logoColor=white&color=4CAF50&labelColor=4CAF50" style="border-radius:25px;"/>
 </p>
 
 ### ⚙️ Tools & Platforms  
