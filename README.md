@@ -42,7 +42,7 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 ## 🏆 Competitive Programming  
 
-<p align="center">
+<p align="right">
 
 <a href="https://leetcode.com/madhura_03">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=35" />
