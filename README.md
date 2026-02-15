@@ -16,7 +16,7 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
 
-### 🌐 Frontend Development  
+### 🌐 Web Development  
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
@@ -42,33 +42,24 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 ## 🏆 Competitive Programming  
 
-### 🟠 LeetCode  
-<p>
+<p align="left">
 <a href="https://leetcode.com/madhura_03" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
 </a>
-</p>
 
-### 🟤 CodeChef  
-<p>
 <a href="https://www.codechef.com/users/madhura03" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
 </a>
-</p>
 
-### 🔵 Codeforces  
-<p>
 <a href="https://codeforces.com/profile/madhura_27" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45"/>
 </a>
-</p>
 
-### 🟣 Codolio  
-<p>
 <a href="https://codolio.com/profile/kit27.cse27" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codio.svg" width="45"/>
 </a>
 </p>
+
 
 ## 🏆 Competitive Programming
 
