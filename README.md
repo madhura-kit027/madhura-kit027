@@ -68,20 +68,6 @@ Front-End Development Intern  from live Stream Technology
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40)](https://codeforces.com/profile/madhura_27)
 [![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white&logoWidth=45)](https://codolio.com/profile/kit27.cse27)
 
-## 🏅 Achievements
-
-🏆 Earned the Gold Badge (Contest Contender) on CodeChef for consistent performance in competitive programming contests.  
-🥈 Awarded the Silver Badge (Problem Solver) on CodeChef for solving a large number of coding challenges.  
-🥉 Received the Bronze Badge (Daily Streak) on CodeChef for maintaining regular coding practice.  
-💻 Successfully solved **500+ coding problems** and actively participated in **70+ competitive contests**.  
-☁️ Recognized as a Salesforce **Agentblazer Champion** for demonstrating excellence in Salesforce learning and innovation.  
-
-## 📜 Certifications
-
-🎓 Successfully completed the **Web Development** certification from **IBM**.  
-🎓 Earned the **Python Foundation** certification from **Infosys Springboard**.  
-🎓 Completed the **Java Foundation** certification from **Infosys Springboard**.  
-🎓 Achieved certification in **Database Management System (DBMS)** from **Infosys Springboard**.
 
 
 ## 🌟 Let's Connect
